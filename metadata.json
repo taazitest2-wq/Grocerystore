@@ -1,0 +1,8 @@
+{
+  "name": "Saif karyana  Store",
+  "description": "Professional desktop-ready Grocery Store Management & POS System featuring real inventory ledger, sales, purchasing, returns, expenses, cash drawer, and genuine PDF reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

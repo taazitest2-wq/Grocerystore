@@ -1,0 +1,17 @@
+{
+  "name": "BusinessDesk Grocery — Store Management & POS System",
+  "short_name": "BusinessDesk Grocery",
+  "description": "Professional desktop-ready Grocery Store Management & POS System featuring real inventory ledger, sales, purchasing, returns, expenses, cash drawer, and genuine PDF reporting.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#059669",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

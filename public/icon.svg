@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#059669"/>
+      <stop offset="100%" stop-color="#047857"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="128" fill="url(#bg)"/>
+  <!-- Shopping Bag / Store Cart Icon -->
+  <path d="M160 200 C160 146.96 202.96 104 256 104 C309.04 104 352 146.96 352 200 L392 200 C405.25 200 416 210.75 416 224 L416 384 C416 401.67 401.67 416 384 416 L128 416 C110.33 416 96 401.67 96 384 L96 224 C96 210.75 106.75 200 120 200 L160 200 Z" fill="#ffffff" fill-opacity="0.95"/>
+  <path d="M192 200 C192 164.65 220.65 136 256 136 C291.35 136 320 164.65 320 200" fill="none" stroke="#047857" stroke-width="28" stroke-linecap="round"/>
+  <!-- BD Letters in center -->
+  <text x="256" y="336" font-family="system-ui, -apple-system, sans-serif" font-size="80" font-weight="900" fill="#047857" text-anchor="middle" letter-spacing="2">BD</text>
+</svg>
